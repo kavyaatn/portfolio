@@ -7,7 +7,7 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Kavya T N',
-  role: 'AIML Developer and Frontend enthusiast',
+  role: 'An AIML Developer and Frontend enthusiast',
   description:
     'A motivated AI and Data Science professional skilled in Python, Machine Learning, Deep Learning, and NLP. Experienced in developing and deploying AI models, along with data analysis and visualization. I can contribute to the company by utilizing my skills to provide innovative solutions and support data-informed decision-making.',
   resume: 'https://example.com',
