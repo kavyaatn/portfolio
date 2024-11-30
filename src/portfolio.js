@@ -28,21 +28,29 @@ const projects = [
     livePreview: 'https://website-clone-chi.vercel.app/',
   },
   {
-    name: 'Project 2',
+    name: 'Prediction of Heart Attack possibility using Computational Algorithms',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'Developed computational algorithms to predict heart attack risk using machine learning techniques and comparing them',
+    stack: ['Python', 'NumPy', 'Pandas', 'Scikit-learn', 'Keras', 'Matplotlib'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
   {
-    name: 'Project 3',
+    name: 'Medical Image Generation and analysis using Diffusion Models',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'Designed and implemented diffusion models for medical image generation and analysis',
+    stack: ['Python', 'PyTorch', 'TensorFlow', 'NumPy', 'Pandas', 'Matplotlib'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
+  {
+    name: 'Anger and Happy Emotion Analysis for Speaker Recognition using Machine Learning Approach',
+    description:
+      'Conducted emotion analysis for speaker recognition by extracting prosodic features from audio signals using machine learning.',
+    stack: ['Python', 'Librosa', 'NumPy', 'Pandas', 'Scikit-learn', 'Matplotlib'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  }
 ]
 
 const skills = [
@@ -70,12 +78,12 @@ const contact = {
 const publications = [
   {
     name: 'Analysis Of Heart Disease Possibility Using ML Algorithms',
-    publication: 'EEE 2023',
+    publication: 'IEEE 2023',
     livePreview: 'https://ieeexplore.ieee.org/abstract/document/10100993',
   },
   {
     name: 'Accident Detection in images and videos using CNN ,LSTM and X-AI',
-    publication: '2CT-2024',
+    publication: 'I2CT-2024',
     livePreview: 'https://github.com',
   },
 ]
